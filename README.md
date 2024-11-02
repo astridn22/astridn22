@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <h1 align="center">Hola, soy Astrid Naivirt
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnico+Superior+en+Desarrollo+de+Software;.NET+Ssr.+and+Web+Developer">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnica+Universitaria+en+Programación">
 </a>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
@@ -14,14 +12,15 @@
 
 Soy estudiante de la Tecnicatura en Programación en la UTN FRGP, con experiencia en la programación orientada a objetos (POO). Tengo experiencia en el desarrollo y coordinación de proyectos web. 
 Soy Técnico Superior en Desarrollo de Software. Tengo 2 años de experiencia en .NET, y estoy adquieriendo experiencia en desarrollo web trabajando para colidevs.  
-* *Interesado en formarme en Web Design a futuro.*
-- 🌱 Actualmente aprendiendo...
+* *Interesada en ampliar mis conocimientos en Web Design.*
+- 👩‍💻 Actualmente aprendiendo...
   - TypeScript
   - JavaScript
   - React js
   - Next js
   - Tailwind CSS
   - JAVA
+  - MySql
 - 👯 Me encanta trabajar en equipo!
 - También... 🎵 escucho musica todo el día, 🌿 me encanta la cocina basada en plantas y 🚗 la mecánica automotriz.
 - 📫 Contactame vía mail: <a href="astridnaivirt22@outlook.com">astridnaivirt22@outlook.com</a>
@@ -31,7 +30,6 @@ Soy Técnico Superior en Desarrollo de Software. Tengo 2 años de experiencia en
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
 </span>
 
 <h4> Web </h4>
@@ -45,14 +43,15 @@ Soy Técnico Superior en Desarrollo de Software. Tengo 2 años de experiencia en
 
 <h4> Desktop </h4>
 <span>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </span>
 
 <h2>Encontrame también por acá</h2>
-<a href="https://www.linkedin.com/in/federico-ronaldo-di-napoli-225234188/">
+<a href="https://www.linkedin.com/in/astridnaivirt">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/federicodinapoli01/?hl=es-la">
+<a href="https://www.instagram.com/astrid.naivirt/?hl=es-la">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
