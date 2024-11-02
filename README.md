@@ -3,15 +3,14 @@
 </h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnica+Universitaria+en+Programación">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23800080&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnica+Universitaria+en+Programación">
 </a>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy estudiante de la Tecnicatura en Programación en la UTN FRGP, con experiencia en la programación orientada a objetos (POO). Tengo experiencia en el desarrollo y coordinación de proyectos web. 
-Soy Técnico Superior en Desarrollo de Software. Tengo 2 años de experiencia en .NET, y estoy adquieriendo experiencia en desarrollo web trabajando para colidevs.  
+Soy estudiante de la Tecnicatura en Programación en la UTN FRGP, con experiencia en la programación orientada a objetos (POO). Tengo experiencia en el desarrollo y coordinación de proyectos web trabajando para colidevs.  
 * *Interesada en ampliar mis conocimientos en Web Design.*
 - 👩‍💻 Actualmente aprendiendo...
   - TypeScript
