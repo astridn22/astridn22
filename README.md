@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy estudiante de la Tecnicatura en Programación en la UTN FRGP, con experiencia en la programación orientada a objetos (POO). Tengo experiencia en el desarrollo y coordinación de proyectos web trabajando para colidevs. 
+Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN FRGP, con experiencia en la programación orientada a objetos (POO). Tengo experiencia en el desarrollo y coordinación de proyectos web trabajando para colidevs. 
 
 *Interesada en ampliar mis conocimientos en Web Design.*
 - 👩‍💻 Actualmente aprendiendo...
