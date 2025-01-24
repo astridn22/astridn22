@@ -50,6 +50,3 @@ Soy graduada de la Tecnicatura Universitaria en Programación en la UTN FRGP, co
 <a href="https://www.linkedin.com/in/astridnaivirt">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/astrid.naivirt/?hl=es-la">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
