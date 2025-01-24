@@ -19,8 +19,6 @@ Soy graduada de la Tecnicatura Universitaria en Programación en la UTN FRGP, co
   - React js
   - Next js
   - Tailwind CSS
-  - JAVA
-  - MySql
 - 👯 Me encanta trabajar en equipo!
 - También... 🎵 escucho musica todo el día, 🌿 me encanta la cocina basada en plantas y 🚗 la mecánica automotriz.
 - 📫 Contactame vía mail: <a href="astridnaivirt22@outlook.com">astridnaivirt22@outlook.com</a>
